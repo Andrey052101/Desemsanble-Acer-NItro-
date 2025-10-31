@@ -1,6 +1,11 @@
-🧰 Repositorio: Desensamble Acer Nitro AN515-57
-🎬 Descripción general
+🧰 Desensamble del Acer Nitro AN515-57
 
-Este repositorio acompaña el video publicado en YouTube donde se muestra el desensamble completo del portátil Acer Nitro AN515-57, con el fin de documentar su estructura interna y los componentes principales del sistema.
+En este video se muestra el proceso visual de desensamble del portátil Acer Nitro AN515-57.  
+No es una guía paso a paso, sino una demostración de los componentes internos del equipo para fines técnicos y educativos.
 
-🔗 Video en YouTube: https://youtu.be/jKSUm9sXfCc
+📸 Modelo: Acer Nitro AN515-57  
+💻 Uso: Documentación y soporte técnico  
+⚠️ Realiza estos procedimientos solo si tienes conocimiento en mantenimiento de hardware.
+
+🔗 Video original:
+https://youtu.be/jKSUm9sXfCc
